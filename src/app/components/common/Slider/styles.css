@@ -1,0 +1,15 @@
+.custom-slider-styles {
+  height: 4px;
+  background: "#D1D2DF";
+}
+
+.custom-slider-styles .range-slider__range {
+  background: "#009CDC";
+  height: 4px;
+}
+
+.custom-slider-styles .range-slider__thumb {
+  background: url("../../../../../public/icons/bublik.svg");
+  width: 14px;
+  height: 14px;
+}
